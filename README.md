@@ -1,2 +1,2 @@
 # Todo List
-### Simple application with Ruby and React for testing and POC
+### Simple application with Ruby in backend and React in front end for testing and POC
